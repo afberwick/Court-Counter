@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Court Counter</string>
+    <string name="player_a">Player A</string>
+    <string name="_0">0</string>
+    <string name="third_win">Third win</string>
+    <string name="second_win">Second Win</string>
+    <string name="first_win">First Win</string>
+    <string name="player_b">Player B</string>
+    <string name="next_game">Next Game</string>
+    <string name="next_set">Next Set</string>
+    <string name="reset">Reset</string>
+    <string name="game_point">Game Point</string>
+    <string name="_3rd_set">3rd Set</string>
+    <string name="_2nd_set">2nd Set</string>
+    <string name="_1st_set">1st Set</string>
+    <string name="game_1">Game 1</string>
+    <string name="game_2">Game 2</string>
+    <string name="game_3">Game 3</string>
+    <string name="_15">15</string>
+    <string name="_30">30</string>
+    <string name="_40">40</string>
+</resources>

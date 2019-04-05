@@ -1,0 +1,19 @@
+<!-- /*Aileen Berwick
+    Score Keeper app: Lesson 9
+    March, 20, 2018
+    Grow With Google Challenge Scholarship: Android Basics
+    */-->
+
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <!-- Primary theme color of the app (sets background color of app bar) -->
+        <item name="colorPrimary">#d5ff80</item>
+        <!-- Primary dark theme color of the app (sets color of status bar) -->
+        <item name="colorPrimaryDark">#b3ff66</item>
+        <!-- Background color of buttons in the app -->
+        <item name="colorButtonNormal">#d5ff80</item>
+    </style>
+
+</resources>
